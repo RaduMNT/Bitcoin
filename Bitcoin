@@ -1,0 +1,27 @@
+[
+  {
+    "description": "Bitcoin",
+    "attributes": [
+      {
+        "trait_type": "Bitcoin1",
+        "value": "Value1"
+      },
+      {
+        "trait_type": "Bitcoin2",
+        "value": "Value2"
+      },
+      {
+        "trait_type": "Bitcoin3",
+        "value": "Value3"
+      },
+      {
+        "trait_type": "Bitcoin4",
+        "value": "Value4"
+      },
+      {
+        "trait_type": "Bitcoin5",
+        "value": "Value5"
+      }
+    ]
+  }
+]
